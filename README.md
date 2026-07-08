@@ -1,5 +1,7 @@
 # E.L.L.A — Creator-Business Platform
 
+![E.L.L.A](docs/ella.png)
+
 **A full creator-business platform — editorial system, services, projects, store, community, and a narrated podcast — built solo and live in production.**
 
 🔗 **Live:** https://ella-intelligence.com
